@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(170, 189, 206);
+    font-family: 'Arial';
+
+}
+.titulo{
+    width: 420px;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgba(0, 0, 0, 0.705);
+
+}
+.container{
+    margin:auto;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 600;
+    width: 420px;
+    height: 80px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.container2{
+    margin:auto;
+    width: 420px;
+    
+}
+
+.corretas, .incorretas {
+    position: relative;
+    flex-direction: row;
+    width: 210px;
+    height: 180px;
+    float: left;
+    margin:auto;
+}
+.acertos, .erros{
+    font-size: 15px;
+    color:black;
+    font-weight: bold;
+    padding:10px;
+}
+
+.correta1, .correta2, .correta3, 
+.incorreta1, .incorreta2, .incorreta3  {
+    margin-top: 10px;
+}
+
+.explicacao {
+    width:420px;
+    height: 50px;
+
+}
