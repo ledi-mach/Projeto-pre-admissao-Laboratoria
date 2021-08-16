@@ -1,2 +1,2 @@
 # projeto-laboratoria
-Projeto criado para a Laboratoria, realizada pela dupla Lediane Machado e Letícia Braga
+Projeto criado na fase de pré-admissão da Laboratoria. O projeto foi feito em dupla com Letícia Anicetto
